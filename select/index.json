@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "yama『us』 Studio Live ver.",
+  "base_artist": "yama",
+  "createdAt": "2026-02-24T12:16:02.109895Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yamaseの気持",
+      "artist": "山瀬 まみ",
+      "has_synced": false,
+      "path": "select/pl_01_Yamaseの気持_山瀬_まみ.txt"
+    }
+  ]
+}
